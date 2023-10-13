@@ -426,6 +426,7 @@ span.ds-department {
 	padding-right: 70px;
 	background-color: #F6F8FA;
 	margin-bottom: 40px;
+	padding-bottom: 40px;
 }
 
 .ds-work-list section {
@@ -449,6 +450,7 @@ span.ds-department {
 
 .ds-work-list .ds-button {
 	margin-top: 20px;
+	margin-right: 20px;
 }
 
 .ds-work-det-hed {
